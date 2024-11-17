@@ -1,3 +1,58 @@
+# Chat Application
+
+This is a chat application that includes a **frontend** built with React and a **backend** built with Node.js/Express.
+
+## Getting Started
+
+To get this project up and running on your local machine, follow these steps:
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+### 2. Install Dependencies
+For Frontend:
+Navigate to the frontend folder (where your React app is located):
+cd chat
+
+Install the dependencies:
+npm install
+
+Start the React frontend:
+
+npm run start
+This will start the frontend on port 3000 by default. Make sure the React app is running on http://localhost:3000.
+
+For Backend:
+Navigate to the server folder :
+cd server
+
+
+Install the backend dependencies:
+
+npm install
+
+
+Start the backend:
+npm run start
+This will start the backend on port 5002 by default. Make sure the backend is running on http://localhost:5002.
+
+### 3. Verify the Application
+The frontend should be accessible at http://localhost:3000.
+The backend API should be accessible at http://localhost:5002.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
