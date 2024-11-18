@@ -32,6 +32,10 @@ Install the backend dependencies:
 
 npm install
 
+For MongoDB Database:
+
+./server/index.js --> assign your MongoDB connection string to variable 'url'
+
 
 Start the backend:
 npm run start
