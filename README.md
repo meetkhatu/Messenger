@@ -13,7 +13,7 @@ First, clone the repository to your local machine:
 ### 2. Install Dependencies
 For Frontend:
 Navigate to the frontend folder (where your React app is located):
-cd chat
+
 
 Install the dependencies:
 npm install
